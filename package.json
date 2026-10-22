@@ -1,0 +1,11 @@
+{
+  "name": "etwatch",
+  "version": "1.0.0",
+  "description": "Ouvre etwatch.net comme une application dans TizenBrew",
+  "packageType": "mods",
+  "appName": "ETWatch",
+  "websiteURL": "https://www.etwatch.net/",
+  "main": "userScript.js",
+  "keys": [],
+  "license": "MIT"
+}
